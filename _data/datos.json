@@ -1,0 +1,50 @@
+{
+    "restaurantes": [
+      {
+        "nombre": "DiverXO",
+        "descripcion": "Restaurante de cocina creativa y vanguardista dirigido por el chef Dabiz Muñoz, reconocido con tres estrellas Michelin.",
+        "direccion": "C. Padre Damián, 23, 28036 Madrid, España",
+        "telefono": "+34 915 70 07 07",
+        "url": "https://diverxo.com",
+        "horarios": "Lunes a Sábado: 13:30 - 15:30 / 20:30 - 22:30",
+        "especialidad": "Menú degustación de alta cocina"
+      },
+      {
+        "nombre": "Club Allard",
+        "descripcion": "Ofrece una experiencia gastronómica única con menús degustación innovadores y una amplia variedad de platos creativos.",
+        "direccion": "C. Ferraz, 2, 28008 Madrid, España",
+        "telefono": "+34 915 47 77 77",
+        "url": "https://www.cluballard.com",
+        "horarios": "Martes a Sábado: 13:30 - 15:30 / 20:30 - 22:30",
+        "especialidad": "Menú degustación de autor"
+      },
+      {
+        "nombre": "Ramen Kagura",
+        "descripcion": "Considerado uno de los mejores restaurantes de ramen en Madrid, ofrece auténticos platos japoneses en un ambiente acogedor.",
+        "direccion": "C. de Las Fuentes, 1, 28013 Madrid, España",
+        "telefono": "+34 915 22 22 22",
+        "url": "https://ramenkagura.com",
+        "horarios": "Lunes a Domingo: 13:00 - 16:00 / 20:00 - 23:00",
+        "especialidad": "Ramen Tonkotsu"
+      },
+      {
+        "nombre": "La Vaca y La Huerta",
+        "descripcion": "Restaurante que fusiona carnes de calidad con productos de huerta de temporada, ofreciendo una experiencia culinaria única.",
+        "direccion": "C. de Vallehermoso, 79, 28015 Madrid, España",
+        "telefono": "+34 915 45 67 89",
+        "url": "https://lavacaylahuerta.com",
+        "horarios": "Lunes a Sábado: 13:00 - 16:00 / 20:00 - 23:00",
+        "especialidad": "Entrecot de vaca vieja"
+      },
+      {
+        "nombre": "Tragaluz",
+        "descripcion": "Restaurante de cocina mediterránea contemporánea con una amplia variedad de platos y un ambiente elegante.",
+        "direccion": "C. de Ponzano, 56, 28003 Madrid, España",
+        "telefono": "+34 915 77 99 00",
+        "url": "https://tragaluz.es",
+        "horarios": "Lunes a Domingo: 13:00 - 16:00 / 20:00 - 23:00",
+        "especialidad": "Arroz meloso de bogavante"
+      }
+    ]
+  }
+  

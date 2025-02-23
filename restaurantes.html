@@ -1,0 +1,19 @@
+---
+layout: page
+title: restaurantes
+permalink: /restaurantes/
+---
+<h2>Restaurantes en Madrid</h2>
+<ul>
+  {% for restaurante in site.data.restaurantes.restaurantes %}
+    <li>
+      <strong>{{ restaurante.nombre }}</strong><br>
+      <em>{{ restaurante.descripcion }}</em><br>
+      <strong>Dirección:</strong> {{ restaurante.direccion }}<br>
+      <strong>Teléfono:</strong> {{ restaurante.telefono }}<br>
+      <strong>Horario:</strong> {{ restaurante.horarios }}<br>
+      <strong>Especialidad:</strong> {{ restaurante.especialidad }}<br>
+      <a href="{{ restaurante.url }}" target="_blank">Visitar sitio web</a>
+    </li>
+  {% endfor %}
+</ul>
