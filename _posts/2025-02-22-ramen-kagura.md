@@ -1,107 +1,18 @@
 ---
 layout: post
-title:  "Example content"
-date:   2017-01-31 09:00:09 -0200
-description: Example.
-permalink: /example/
+title: "Ramen Kagura - El mejor ramen en el corazón de Madrid"
+date: 2025-02-22 12:00:00 -0200
+description: Descubre el auténtico sabor del ramen japonés en Ramen Kagura, uno de los mejores restaurantes de ramen en Madrid.
+permalink: /ramen-kagura-review/
 ---
 
-# H1 - A First Level Header
+Si estás buscando un buen lugar para disfrutar de un **auténtico ramen japonés**, no busques más. **Ramen Kagura**, ubicado cerca de la Puerta del Sol, ofrece una experiencia culinaria que te transporta directamente a Japón.
 
-## H2- A Second Level Header 
+El plato estrella aquí es el **Ramen Tonkotsu**, con un caldo denso y rico, acompañado de fideos perfectos y trozos de cerdo increíblemente tiernos. El ambiente es acogedor y el servicio rápido, ideal para una comida reconfortante en los días fríos de Madrid.
 
-### H3 - A Third Level Header 
+El restaurante es pequeño, por lo que es común ver una fila para entrar, pero definitivamente vale la pena la espera. ¡Sin duda, uno de los mejores sitios para comer ramen en la ciudad!
 
-#### H4 - A Fourth Level Header
-
-##### H5 - A Fifth Level Header 
-
-###### H6 - A Sixed Level Header 
-
-Text can be **bold**, *italic*, or  <s>strikethrough</s>.
-
-[Links](#) are blue with underline. When they hover over, the color changes to dark blue 
-
-There should be white spaces between paragraphs. There should be white spaces between paragraphs.
-There should be white spaces between paragraphs. There should be white spaces between paragraphs. 
-
-There should be white spaces between paragraphs. There should be white spaces between paragraphs. 
-There should be white spaces between paragraphs. There should be white spaces between paragraphs.  
-
-- - -
-
-### Blockquote
-
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-> 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
-
-### Unordered lists
-
-- Blue
-- Green
-- Yellow
-- More colors:
-    - Red
-    - Orange
-- Most useds:
-    1. Black
-    2. White
-
-### Ordered lists
-
-1. Blue
-2. Green
-3. Yellow
-4. Red
-5. More colors:
-    1. Orange 
-    2. Pink
-6. Most useds:
-    - Black
-    - White
-
-### Task List
-
-- [ ] Buy rice
-- [ ] Buy beans
-- [ ] Buy potato
-- [x] Buy noodles
-
-
-### Tables
-
-Language   | Code                 | Type
----------- | -------------------- | ---------
-HTML       | `<p> Hello </p>`     | Front End
-CSS        | `p { color: blue; }` | Front End
-JavaScript | `var msg = "Hello"`  | Front End
-PHP        | `$msg = 'Hello';`    | Back End
-Python     | `msg = "Hello"`    | Back End
-
-
-### Code blocks
-
-Here is an example of `Python`:
-
-{% highlight python %}
-if __name__ =='__main__':
-    img_thread = threading.Thread(target=downloadWallpaper)
-    img_thread.start()
-    st = '\rDownloading Image'
-    current = 1
-    while img_thread.is_alive():
-        sys.stdout.write(st+'.'*((current)%5))
-        current=current+1
-        time.sleep(0.3)
-    img_thread.join()
-    print('\nImage of the day downloaded.')
-{% endhighlight %}
-
-### Images
-
-Images are resized according to screen size.
-
+**Ubicación:** Calle de Las Fuentes, 1, 28013 Madrid, España  
+**Teléfono:** +34 915 22 22 22  
+**Especialidad:** Ramen Tonkotsu  
+**Precio:** $$
