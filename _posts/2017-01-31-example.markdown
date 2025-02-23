@@ -105,4 +105,3 @@ if __name__ =='__main__':
 
 Images are resized according to screen size.
 
-![Image](\assets\img\image-blog.png)
