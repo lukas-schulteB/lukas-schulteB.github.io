@@ -1,12 +1,12 @@
 # Site settings
-title: Pagina Jekyll
+title: Página Jekyll
 description: Reseñas de restaurantes.
 url: "http://https://lukas-schulteb.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author:
   name     : Lukas Schulte  
-  bio      : Critico gastronomico
+  bio      : Crítico gastronómico
   email    : lukas@gmail.com
   twitter  : https://twitter.com
 
