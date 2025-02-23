@@ -7,6 +7,18 @@
     box-sizing: border-box;
 }
 
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: $default-font;
+    color: $black; 
+}
+
 button {
     padding: 0;
     background: none;
@@ -17,9 +29,8 @@ button {
 /*------------
 ---- Body ----
 ------------*/
-body {
-    font-family: $default-font;
-    color: $black; 
+.home {
+    flex: 1;
 }
 
 /*------------------
