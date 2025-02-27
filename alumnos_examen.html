@@ -1,0 +1,13 @@
+---
+layout: examen
+permalink: /examen/alumnos.html
+---
+<h2>Alumnos</h2>
+<ul>
+  {% for alumno in site.data.alumnos.alumnos %}
+    <li>
+      <strong>{{ alumno.nombre }}</strong><br>
+      <strong>{{ alumno.apellido }}</strong>
+    </li>
+  {% endfor %}
+</ul>
